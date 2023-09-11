@@ -1,0 +1,6 @@
+pickle
+pandas
+fastapi
+starlette
+python-multipart
+"uvicorn[standard]"
